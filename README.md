@@ -47,24 +47,7 @@
 
 ---
 
-### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hanane-ghabbara" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hanene2004" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hanane.dev" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/hanane.ghabbara" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
