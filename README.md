@@ -1,7 +1,6 @@
 # Hey, I'm Ghabbara hanene👋
 
-# 💫 About Me:
-🔭 I’m currently working on an online sales platform project in collaboration with the **Tunisian Ministry of Commerce**.  
+# 💫 About Me: 
 🌱 I’m currently learning **web scraping** and diving into the world of **AI**.  
 💡 I'm passionate about building smart, user-focused digital solutions that have real impact.  
 ⚡ Fun fact: I can debug faster with coffee in hand ☕ and music in the background 🎧  
