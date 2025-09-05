@@ -1,55 +1,68 @@
-# Hey, I'm Ghabbara Hanene 👋
+<!-- Banner Section -->
 
-## 💫 About Me:
-🌱 I’m currently learning **web scraping** and diving into the world of **AI**.  
-💡 I'm passionate about building smart, user-focused digital solutions that have real impact.  
-⚡ Fun fact: I can debug faster with coffee in hand ☕ and music in the background 🎧  
 
----
-
-## 🚀 Tech Stack:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-</div>
+<!-- Quick Intro -->
+<h1 align="center">Hey! I am Hanene 👋</h1>
+<p align="center"><i>Computer Science Student | Web & AI Enthusiast</i></p>
 
 ---
 
-## 🛠️ Other Tools & Skills:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+## 🧑‍💻 About Me
+
+- 🚀 Passionate about building smart, user-focused digital solutions.
+- 🖥️ Currently learning web scraping & diving into the world of AI.
+- 🎨 Skilled in Adobe Illustrator & Capcut.
+- ☕ I debug faster with coffee in hand and music in the background!
 
 ---
 
+## 🛠️ My Favorite Tools & Technologies
 
+<p align="center">
+  <!-- Tools badges inspired by Image 3 -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Capcut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&show_icons=true&theme=radical" alt="Hanene's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&layout=compact&theme=radical" alt="Hanene's Top Languages" />
+</p>
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 🌟 Featured Projects
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- [Weather App](https://github.com/Hanene2004/weather-app): Simple, elegant weather updates at your fingertips.
+- [TechStore](https://github.com/Hanene2004/TechStore): E-commerce platform for tech lovers.
+- [ExamFlow](https://github.com/Hanene2004/ExamFlow): Streamlining online exam experiences.
+- [Muatamad.tn](https://github.com/Hanene2004/Muatamad.tn): Local services, global quality.
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/hanane-ghabbara-056047296/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanene2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
