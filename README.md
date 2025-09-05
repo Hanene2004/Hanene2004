@@ -48,12 +48,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- [Weather App](https://github.com/Hanene2004/weather-app): Simple, elegant weather updates at your fingertips.
-- [TechStore](https://github.com/Hanene2004/TechStore): E-commerce platform for tech lovers.
-- [ExamFlow](https://github.com/Hanene2004/ExamFlow): Streamlining online exam experiences.
-- [Muatamad.tn](https://github.com/Hanene2004/Muatamad.tn): Local services, global quality.
 
 ---
 
