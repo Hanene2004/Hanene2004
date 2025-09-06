@@ -47,14 +47,3 @@
 ---
 
 
----
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/hanane-ghabbara-056047296/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanene2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
