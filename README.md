@@ -1,11 +1,13 @@
 <!-- 🎉 Banner Section -->
-
 <h1 align="center">Hey! I am Hanene 👋</h1>
 <p align="center"><i>Computer Science Student | Web & AI Enthusiast</i></p>
 
 ---
 
 ## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
 - 🚀 Passionate about building smart, user-focused digital solutions.  
 - 🖥️ Currently learning web scraping & diving into the world of AI.  
@@ -15,7 +17,6 @@
 ---
 
 ## 🛠️ My Favorite Tools & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -35,19 +36,44 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## ☕ Fun Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Hanene2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hanene-ghabbara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hanene@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
