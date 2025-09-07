@@ -37,13 +37,16 @@
 
 ---
  
-## 📊 GitHub Stats :
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ghabbara hanene&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ghabbara hanene&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghabbara hanene&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&show_icons=true&theme=radical" alt="Hanene's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&layout=compact&theme=radical" alt="Hanene's Top Languages" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ghabbara hanene&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ghabbara hanene&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
