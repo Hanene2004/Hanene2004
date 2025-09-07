@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me :
 
 - 🚀 Passionate about building smart, user-focused digital solutions.
 - 🖥️ Currently learning web scraping & diving into the world of AI.
