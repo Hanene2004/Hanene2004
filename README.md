@@ -5,14 +5,22 @@
 ---
 
 ## 🧑‍💻 About Me
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
 
-- 🚀 Passionate about building smart, user-focused digital solutions.  
-- 🖥️ Currently learning web scraping & diving into the world of AI.  
-- 🎨 Skilled in Adobe Illustrator & Capcut.  
-- ☕ I debug faster with coffee in hand and music in the background!  
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+    </td>
+    <td>
+      <ul>
+        <li>🚀 Passionate about building smart, user-focused digital solutions.</li>
+        <li>🖥️ Currently learning web scraping & diving into the world of AI.</li>
+        <li>🎨 Skilled in Adobe Illustrator & Capcut.</li>
+        <li>☕ I debug faster with coffee in hand and music in the background!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
