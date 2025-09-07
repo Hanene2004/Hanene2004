@@ -1,25 +1,22 @@
-<!-- Banner Section -->
+<!-- 🎉 Banner Section -->
 
-
-<!-- Quick Intro -->
 <h1 align="center">Hey! I am Hanene 👋</h1>
 <p align="center"><i>Computer Science Student | Web & AI Enthusiast</i></p>
 
 ---
 
-## 🧑‍💻 About Me :
+## 🧑‍💻 About Me
 
-- 🚀 Passionate about building smart, user-focused digital solutions.
-- 🖥️ Currently learning web scraping & diving into the world of AI.
-- 🎨 Skilled in Adobe Illustrator & Capcut.
-- ☕ I debug faster with coffee in hand and music in the background!
+- 🚀 Passionate about building smart, user-focused digital solutions.  
+- 🖥️ Currently learning web scraping & diving into the world of AI.  
+- 🎨 Skilled in Adobe Illustrator & Capcut.  
+- ☕ I debug faster with coffee in hand and music in the background!  
 
 ---
 
 ## 🛠️ My Favorite Tools & Technologies
 
 <p align="center">
-  <!-- Tools badges inspired by Image 3 -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -36,17 +33,27 @@
 </p>
 
 ---
- 
- 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0"/>
+  </a>
+</p>
