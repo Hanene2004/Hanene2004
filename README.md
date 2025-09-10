@@ -5,6 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me :
+
 <table>
   <tr>
     <td width="200">
@@ -23,103 +24,34 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b>Things I Code With</b>
-
-<br>
-<table align="center">
-  <tr>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" /><br>Redux
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>Flutter
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nest.js" /><br>Nest.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /><br>Django
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" /><br>Solidity
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" /><br>Three.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" /><br>D3.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" /><br>Sass
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
-    </td>
-     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
-    </td>
-  </tr>
-</table>
+## 🛠️ My Favorite Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Activity
-<!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/infiniteriseup/infiniteriseup/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false" height="180"/>
+</p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Hanene2004&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
 
 ---
 
@@ -129,6 +61,7 @@
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -142,3 +75,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
