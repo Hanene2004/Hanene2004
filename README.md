@@ -53,6 +53,12 @@
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
   ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)  
 
+  ## 📸 Screenshots
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200140.png" width="45%"/>
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200153.png" width="45%"/>
+  </p>
+
   ## ✨ Citation  
   *"Choose what you want, and work hard to achieve it."*  
 
