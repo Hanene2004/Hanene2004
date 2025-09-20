@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-top.svg" width="300"/>
+  <!-- Removed pokeball-top.svg since it was deleted -->
 </p>
 
 <details>
@@ -55,8 +55,8 @@
 
   ## 📸 Screenshots
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200140.png" width="45%"/>
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200153.png" width="45%"/>
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200140.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200153.png" width="300"/>
   </p>
 
   ## ✨ Citation  
@@ -81,5 +81,5 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-bottom.svg" width="300"/>
+  <!-- Removed pokeball-bottom.svg since top was deleted -->
 </p>
