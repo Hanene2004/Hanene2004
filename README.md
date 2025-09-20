@@ -60,12 +60,6 @@
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
   ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)  
 
-  ## 📸 Exemples de projets
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-top.png" width="200" alt="Exemple projet 1"/>
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-bottom.png" width="200" alt="Exemple projet 2"/>
-  </p>
-
   ## ✨ Citation  
   *"Choose what you want, and work hard to achieve it."*  
 
