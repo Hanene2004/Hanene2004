@@ -10,11 +10,11 @@
     <img src="https://github.com/Hanene2004.png" width="150" style="border-radius:50%"/>
   </p>
 
-  <h2 align="center">Hey, I’m Hanane 👋</h2>
-  <p align="center"><i>Étudiante en informatique | Passionnée par le web & l’IA</i></p>
+  <h2 align="center">Hey, I'm Hanane 👋</h2>
+  <p align="center"><i>Étudiante en informatique | Passionnée par le web & l'IA</i></p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Hey,+I’m+Hanane;Computer+Science+Student;Future+Full-Stack+Developer;AI+%26+Web+Enthusiast;Always+learning+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Hey,+I'm+Hanane;Computer+Science+Student;Future+Full-Stack+Developer;AI+%26+Web+Enthusiast;Always+learning+🚀" />
   </p>
 
   ## 👩‍💻 About Me  
@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
   </p>
 
-  ## 🤝 Let’s Work on Your Project Together!  
+  ## 🤝 Let's Work on Your Project Together!  
   <p align="center">
     <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
