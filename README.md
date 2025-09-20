@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Removed pokeball-top.svg since it was deleted -->
+  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-top.png" width="300"/>
 </p>
 
 <details>
@@ -53,10 +53,10 @@
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
   ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)  
 
-  ## 📸 Screenshots
+  ## 📸 Exemples de projets
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200140.png" width="300"/>
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'écran%202025-09-20%20200153.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-top.png" width="200" alt="Exemple projet 1"/>
+    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-bottom.png" width="200" alt="Exemple projet 2"/>
   </p>
 
   ## ✨ Citation  
@@ -81,5 +81,5 @@
 </details>
 
 <p align="center">
-  <!-- Removed pokeball-bottom.svg since top was deleted -->
+  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-bottom.png" width="300"/>
 </p>
