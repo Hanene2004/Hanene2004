@@ -1,6 +1,6 @@
 <!-- 🎉 Banner Section -->
 <h1 align="center">Hey! I am Hanene 👋</h1>
-<p align="center"><i>Computer Science Student | Web & AI Enthusiast</i></p>
+<p align="center"><i>Computer Science Student | Web & AI Enthusiast</i></p> 
 
 ---
 
