@@ -2,8 +2,15 @@
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-top.png" width="300"/>
 </p>
 
+<br>
+<br>
+
+<div align="center">
+
+# 🎯 Open Profile
+
 <details>
-  <summary>▼ Open profile</summary>
+  <summary><b>▼ Cliquez ici pour ouvrir mon profil ▼</b></summary>
   <br>
 
   <p align="center">
@@ -79,6 +86,11 @@
   </p>
 
 </details>
+
+</div>
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/pokeball-bottom.png" width="300"/>
