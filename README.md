@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut-removebg-preview.png" width="275"/>
+  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut-removebg-preview.png" width="285"/>
 </p>
 
 <div align="center">
