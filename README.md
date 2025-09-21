@@ -15,12 +15,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Hey,+I'm+Hanane;Computer+Science+Student;Future+Full-Stack+Developer;AI+%26+Web+Enthusiast;Always+learning+🚀&color=8A2BE2&repeat=true&font-weight=600" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanene2004&label=Profile%20views&color=blueviolet&style=flat" alt="Hanene2004" />
+</p>
+
+<!-- GIF de femme qui code -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Woman coding GIF">
+</p>
+
 <details>
 <summary>👩‍💻 About Me</summary>
 
-- 🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
-- 🌐 <span style="color: violet;">Specialization: Web Development</span>  
-- 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
+🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
+ 🌐 <span style="color: violet;">Specialization: Web Development</span>  
+ 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
 </details>
 
 <details>
