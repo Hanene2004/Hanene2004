@@ -2,20 +2,11 @@
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut-removebg-preview.png" width="300"/>
 </p>
 
-<br>
-<br>
-
 <div align="center">
-
-# 🎯 Open Profile
 
 <details>
   <summary>Open my profile ▼</summary>
   <br>
-
-  <p align="center">
-    <img src="https://github.com/Hanene2004.png" width="150" style="border-radius:50%"/>
-  </p>
 
   <h2 align="center">Hey, I'm Hanane 👋</h2>
   <p align="center"><i>Computer Science Student | Passionate about web & AI</i></p>
@@ -106,9 +97,6 @@
 </details>
 
 </div>
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/bas-removebg-preview.png" width="300"/>
