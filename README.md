@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="center" style="color: violet;">Hey, I'm Hanane 👋</h2>
-<p align="center"><i style="color: violet;">Computer Science Student | Passionate about web & AI</i></p>
+<p align="center"><i style="color: violet;">Computer Science Student | Passionate about web & AI !</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Hey,+I'm+Hanane;Computer+Science+Student;Future+Full-Stack+Developer;AI+%26+Web+Enthusiast;Always+learning+🚀&color=8A2BE2&repeat=true&font-weight=600" />
