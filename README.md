@@ -33,6 +33,16 @@
 </details>
 
 <details>
+<summary>😄 Fun Facts / Personal</summary>
+
+🌍 I speak **Arabic, French, and English**  
+ ☕ Coffee is my coding fuel  
+ 🎶 I love coding while listening to music  
+ 🎨 Creative designer in free time  
+
+</details>
+
+<details>
 <summary>🏆 GitHub Trophies</summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
@@ -57,7 +67,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   </kbd>
@@ -74,7 +84,7 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   </kbd>
   <br>
@@ -83,7 +93,6 @@
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   </kbd>
   <kbd>
@@ -125,8 +134,8 @@
 <details>
 <summary>🤝 Let's Work on Your Project Together!</summary>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 </details>
 
