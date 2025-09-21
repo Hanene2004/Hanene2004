@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut-removebg-preview.png" width="300"/>
 </p>
 
 <br>
@@ -10,7 +10,7 @@
 # 🎯 Open Profile
 
 <details>
-  <summary><b>▼ Cliquez ici pour ouvrir mon profil ▼</b></summary>
+  <summary>Cliquez ici pour ouvrir mon profil ▼</summary>
   <br>
 
   <p align="center">
@@ -112,5 +112,5 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/bas.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/bas-removebg-preview.png" width="300"/>
 </p>
