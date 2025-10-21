@@ -28,17 +28,17 @@
 <summary>👩‍💻 About Me</summary>
 
 🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
- 🌐 <span style="color: violet;">Specialization: Web Development</span>  
- 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
+🌐 <span style="color: violet;">Specialization: Web Development</span>  
+🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
 </details>
 
 <details>
 <summary>😄 Fun Facts / Personal</summary>
 
 🌍 I speak **Arabic, French, and English**  
- ☕ Coffee is my coding fuel  
- 🎶 I love coding while listening to music  
- 🎨 Creative designer in free time  
+☕ Coffee is my coding fuel  
+🎶 I love coding while listening to music  
+🎨 Creative designer in free time  
 
 </details>
 
@@ -54,18 +54,17 @@
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -73,41 +72,38 @@
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </kbd>
-  <br>
-  <br>
+  <br><br>
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   </kbd>
   <kbd>
     <kbd>Operating Systems</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   </kbd>
@@ -121,14 +117,18 @@
 
 <details>
 <summary>📊 GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </details>
 
 <details>
