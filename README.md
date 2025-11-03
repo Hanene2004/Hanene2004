@@ -111,11 +111,6 @@
 </details>
 
 <details>
-<summary>✨ Quote</summary>
-<p style="color: violet;">*"Choose what want, and work hard to achieve it."*</p>
-</details>
-
-<details>
 <summary>📊 GitHub Stats</summary>
 
 # 📊 GitHub Stats:
