@@ -24,6 +24,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Woman coding GIF">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
+</p>
+
 ## 👩‍💻 About Me
 
 🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
@@ -148,9 +152,7 @@
   <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
+
 
 </details>
 
