@@ -43,13 +43,23 @@
 
 ---
 
+## 💎 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/github/followers/Hanene2004?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
+  <img src="https://img.shields.io/github/repo-size/Hanene2004/MultiHub?label=Repo%20Size&style=for-the-badge&color=purple" alt="Repo Size"/>
+</p>
+
+---
+
 <h2 align="center" style="color: violet;">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4"/>
 </p>
-
----
 
 ---
 
@@ -158,10 +168,7 @@
   <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
-
 </details>
-
 </div>
 
 <p align="center">
