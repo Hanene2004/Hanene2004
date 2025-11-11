@@ -123,15 +123,21 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Hanene2004's GitHub Stats" /><br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Hanene2004's Top Languages" /><br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Hanene2004&theme=radical&hide_border=true" alt="Hanene2004's Streak Stats" />
 
 </div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanene2004&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
+
 
 ---
 
