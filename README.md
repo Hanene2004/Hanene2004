@@ -24,33 +24,33 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Woman coding GIF">
 </p>
 
-<details>
-<summary>👩‍💻 About Me</summary>
+## 👩‍💻 About Me
 
 🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
 🌐 <span style="color: violet;">Specialization: Web Development</span>  
 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
-</details>
 
-<details>
-<summary>😄 Fun Facts / Personal</summary>
+## 😄 Fun Facts / Personal
 
 🌍 I speak **Arabic, French, and English**  
 ☕ Coffee is my coding fuel  
 🎶 I love coding while listening to music  
 🎨 Creative designer in free time  
 
-</details>
+---
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
+<h2 align="center" style="color: violet;">🏆 GitHub Trophies 🏆</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4"/>
 </p>
-</details>
 
-<details>
-<summary>🛠️ Technologies & Tools</summary>
+---
+
+---
+
+<h2 align="center" style="color: violet;">🛠️ Technologies & Tools 🛠️</h2>
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -108,15 +108,26 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   </kbd>
 </p>
-</details>
 
-<details>
-<summary>📊 GitHub Stats</summary>
+---
 
-# 📊 GitHub Stats:
+<h2 align="center" style="color: violet;">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&animation=twinkling" width="100%"/>
+</p>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanene2004&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</p>
 
 ---
 
@@ -124,17 +135,26 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</details>
+---
 
-<details>
-<summary>🤝 Let's Work on Your Project Together!</summary>
+<h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together! 🤝</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&animation=twinkling" width="100%"/>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
+</p>
 
 </details>
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/bas-removebg-preview.png" width="250"/>
