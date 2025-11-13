@@ -127,6 +127,8 @@
 
 ---
 
+---
+
 <h2 align="center" style="color: violet;">📊 GitHub Statistics 📊</h2>
 
 <p align="center">
@@ -139,31 +141,34 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" 
     alt="GitHub Stats" 
-    height="180em"/>
+    height="180em"
+  />
 
   <!-- Top Languages Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&layout=compact&hide_border=true&border_radius=15" 
     alt="Top Languages" 
-    height="180em"/>
+    height="180em"
+  />
 
-  <!-- Streak Stats -->
-  <br><br>
-  <img 
-    src="https://streak-stats.demolab.com?user=Hanene2004&theme=radical&hide_border=true&border_radius=15" 
-    alt="GitHub Streak"/>
+  <!-- Streak Stats (fixed link) -->
+  <img src="https://streak-stats.demolab.com?user=Hanene2004&theme=radical&hide_border=true" alt="Hanene2004's GitHub Stats" />
 
   <!-- Contribution Graph -->
   <br><br>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hanene2004&theme=radical&hide_border=true&bg_color=0D1117" 
     width="100%" 
-    alt="Contribution Graph"/>
+    alt="Contribution Graph"
+  />
 </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
+
+---
+
 
 ---
 
