@@ -5,7 +5,7 @@
 <div align="center">
 
 <details>
-<summary style="color: violet;"> Open my profile : </summary>
+<summary style="color: violet;"> 🌸 Open my profile 🌸 </summary>
 <br>
 
 <h2 align="center" style="color: violet;">Hey, I'm Hanane 👋</h2>
@@ -28,13 +28,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  🌸🌸
 
 🎓 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
 🌐 <span style="color: violet;">Specialization: Web Development</span>  
 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>
 
-## 😄 Fun Facts / Personal
+## 😄 Fun Facts / Personal  🌸🌸
 
 🌍 I speak **Arabic, French, and English**  
 ☕ Coffee is my coding fuel  
@@ -43,7 +43,7 @@
 
 ---
 
-## 💎 Badges
+## 💎 Badges  🌸🌸
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="center" style="color: violet;">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center" style="color: violet;">🏆 GitHub Trophies 🏆  </h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4"/>
