@@ -125,15 +125,10 @@
 
 ---
 
----
 
----
 
 <h2 align="center" style="color: violet;">📊 GitHub Statistics 📊</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&animation=twinkling" width="100%"/>
-</p>
 
 <div align="center">
 
@@ -167,26 +162,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
 
----
-
-
----
-
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
 <h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together! 🤝</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&animation=twinkling" width="100%"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
