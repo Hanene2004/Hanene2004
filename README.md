@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/haut-removebg-preview.png" width="275"/>
 </p>
 
-<div align="center">
+<div align="center"> 
 
 <details>
 <summary style="color: violet;">  Open my profile  </summary>
