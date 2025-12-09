@@ -125,19 +125,21 @@
 
 ---
 
-<h2 align="center" style="color: violet;">📊 GitHub Statistics 📊</h2>
+---
+
+<h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <div align="center">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" 
+    src="https://github-readme-stats-hanene2004.vercel.app/api?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" 
     height="180em"
   />
 
   <!-- TOP LANGUAGES WITH 8 LANGUAGES -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&layout=compact&hide_border=true&border_radius=15&langs_count=8" 
+    src="https://github-readme-stats-hanene2004.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&layout=compact&hide_border=true&border_radius=15&langs_count=8" 
     height="180em"
   />
 
@@ -155,9 +157,6 @@
   />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
 
 ---
 
