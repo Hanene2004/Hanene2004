@@ -5,7 +5,7 @@
 <div align="center"> 
 
 <details>
-<summary style="color: violet;">  Open my profile  </summary>
+<summary style="color: violet;"> Open my profile </summary>
 <br>
 
 <h2 align="center" style="color: violet;">Hey, I'm Hanane 👋</h2>
@@ -16,12 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanene2004&label=Profile%20views&color=blueviolet&style=flat" alt="Hanene2004" />
+  <img src="https://komarev.com/ghpvc/?username=Hanene2004&label=Profile%20views&color=blueviolet&style=flat"/>
 </p>
 
-<!-- GIF de femme qui code -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Woman coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
@@ -46,125 +45,102 @@
 ## 💎 Badges 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Learning"/>
-  <img src="https://img.shields.io/github/followers/Hanene2004?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
-  <img src="https://img.shields.io/github/repo-size/Hanene2004/MultiHub?label=Repo%20Size&style=for-the-badge&color=purple" alt="Repo Size"/>
-</p>
-
----
-
-<h2 align="center" style="color: violet;">🏆 GitHub Trophies 🏆  </h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/Hanene2004?label=Followers&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/repo-size/Hanene2004/MultiHub?label=Repo%20Size&style=for-the-badge&color=purple"/>
 </p>
 
 ---
 
 <h2 align="center" style="color: violet;">🛠️ Technologies & Tools 🛠️</h2>
 
-<p style="display: inline-block;" align="center">
+<p align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <kbd>Programming Languages</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   </kbd>
+
   <kbd>
-    <kbd>Back-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <kbd>Back-end</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   </kbd>
+
   <kbd>
-    <kbd>Front-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <kbd>Front-end</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
   </kbd>
+
   <kbd>
-    <kbd>Database</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <kbd>Database</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </kbd>
+
   <br><br>
+
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <kbd>System, Networking & Deployment</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   </kbd>
+
   <kbd>
-    <kbd>Tools</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+    <kbd>Tools</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
   </kbd>
+
   <kbd>
-    <kbd>Operating Systems</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <kbd>Operating Systems</kbd><br><br>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
   </kbd>
 </p>
 
 ---
 
----
+## 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Statistics 📊</h2>
+![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hanene2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-hanene2004.vercel.app/api?username=Hanene2004&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" 
-    height="180em"
-  />
-
-  <!-- TOP LANGUAGES WITH 8 LANGUAGES -->
-  <img 
-    src="https://github-readme-stats-hanene2004.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&layout=compact&hide_border=true&border_radius=15&langs_count=8" 
-    height="180em"
-  />
-
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Hanene2004&theme=radical&hide_border=true" 
-    height="180em"
-  />
-
-  <!-- Contribution Graph -->
-  <br><br>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hanene2004&theme=radical&hide_border=true&bg_color=0D1117" 
-    width="100%"
-  />
-</div>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hanene2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together! 🤝</h2>
+[![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hanane.ghabbara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </details>
@@ -173,3 +149,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/bas-removebg-preview.png" width="250"/>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
