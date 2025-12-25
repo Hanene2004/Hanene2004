@@ -22,26 +22,21 @@
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5oZ2V1a2R2d2J3Z2VqY2V3aGJ0dXJ3Z2Z4eGJ6eGZ1bGZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Woman coding GIF">
 </p>
-
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/> 
 </p>
-
----
 
 ## 👩‍💻 About Me 🎓 
 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
 🌐 <span style="color: violet;">Specialization: Web Development</span>  
 🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>  
-
+---
 ## 😄 Fun Facts / Personal
 🌍 I speak **Arabic, French, and English**  
 ☕ Coffee is my coding fuel  
 🎶 I love coding while listening to music  
 🎨 Creative designer in free time  
-
 ---
-
 ## 💎 Badges
 <p align="center"> 
   <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -50,7 +45,7 @@
   <img src="https://img.shields.io/github/followers/Hanene2004?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
   <img src="https://img.shields.io/github/repo-size/Hanene2004/MultiHub?label=Repo%20Size&style=for-the-badge&color=purple" alt="Repo Size"/>
 </p>
-
+---
 <h2 align="center" style="color: violet;">🛠️ Technologies & Tools 🛠️</h2>
 <p style="display: inline-block;" align="center"> 
 
@@ -106,20 +101,22 @@
   <kbd>Operating Systems</kbd> <br><br>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-</kbd> 
-
+</kbd>
 </p>
-
-
+---
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanene2004&theme=radical)
+
 ---
+
 ## 🧠 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanene2004&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanene2004&theme=radical)
@@ -128,19 +125,21 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hanene2004&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=Hanene2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together! 🤝</h2>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/hanane-ghabbara-056047296/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="mailto:hanane.ghabbara@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+</p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer&animation=twinkling" width="100%"/> 
 </p>
 
 </details>
