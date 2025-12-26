@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/github/followers/Hanene2004?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
   <img src="https://img.shields.io/github/repo-size/Hanene2004/MultiHub?label=Repo%20Size&style=for-the-badge&color=purple" alt="Repo Size"/>
 </p>
----
+
 <h2 align="center" style="color: violet;">🛠️ Technologies & Tools 🛠️</h2>
 <p style="display: inline-block;" align="center"> 
 
@@ -103,7 +103,7 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 </kbd>
 </p>
----
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
