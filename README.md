@@ -29,8 +29,8 @@
 
 ## 👩‍💻 About Me 🎓 
 <span style="color: violet;">Bachelor's Degree in Computer Science</span>  
-🌐 <span style="color: violet;">Specialization: Web Development</span>  
-🔒 <span style="color: violet;">Interests: AI, Cybersecurity</span>  
+🌐 <span style="color: violet;">Specialization: Software Engineering/span>  
+🔒 <span style="color: violet;">AI,Data Science , ERP Systems</span>  
 
 ---
 ## 😄 Fun Facts / Personal
