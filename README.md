@@ -110,10 +110,12 @@
 </kbd>
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hanene2004&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanene2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -129,9 +131,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hanene2004&theme=radical&utcOffset=1)
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2 align="center" style="color: violet;">🤝 Let's Work on Your Project Together! 🤝</h2>
 <p align="center"> 
