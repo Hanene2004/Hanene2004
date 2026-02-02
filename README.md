@@ -5,7 +5,7 @@
 <div align="center">
 
 <details>
-<summary style="color: violet;"> Open my profile : </summary>
+<summary style="color: violet;"> Open my profile </summary>
 <br>
 
 <h2 align="center" style="color: violet;">Hey, I'm Hanane 👋</h2>
