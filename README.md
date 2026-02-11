@@ -33,10 +33,10 @@
 🔒 <span style="color: violet;">AI,Data Science , ERP Systems </span>  
 
 ---
-## 😄 Fun Facts / Personal
+## 😄 Personal Facts
 🌍 I speak **Arabic, French, and English**  
 ☕ Coffee is my coding fuel  
-🎶 I love coding while listening to music  
+🎶 I love coding while listening to music
 🎨 Creative designer in free time  
 
 ---
