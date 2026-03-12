@@ -33,13 +33,11 @@
 🔒 <span style="color: violet;">AI,Data Science , ERP Systems </span>  
 
 ---
-## 😄 Personal Facts
-🌍 I speak **Arabic, French, and English**  
-☕ Coffee is my coding fuel  
-🎶 I love coding while listening to music
-🎨 Creative designer in free time  
+😄 Personal Facts
+🌍 I speak Arabic, French, and English, and I'm currently learning German and Turkish 
+🎬 I love coding while watching a Turkish series 
+🎨 Creative designer in my free time
 
----
 ## 💎 Badges
 <p align="center"> 
   <img src="https://img.shields.io/badge/Language-Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
