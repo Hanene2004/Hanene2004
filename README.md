@@ -116,11 +116,6 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Hanene2004&icon=1&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hanene2004&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
